@@ -1,0 +1,35 @@
+{
+  "handle": "@alconsultoriaengsst",
+  "role": "Engenheiro de Segurança do Trabalho",
+  "accent": "#F5B301",
+  "slug": "post1",
+  "slides": [
+    {
+      "type": "cover",
+      "tag": "SST na semana",
+      "headline": [["Multa da NR-1 suspensa.", "w"], ["Obrigação, não.", "a"]],
+      "sub": "O STF prorrogou a suspensão das sanções sobre riscos psicossociais. Veja o que continua valendo para a sua empresa."
+    },
+    {
+      "type": "content",
+      "label": "O que aconteceu",
+      "title": "STF dá mais 90 dias para a conciliação",
+      "body": "Em 24/09, o ministro André Mendonça prorrogou a suspensão das multas e sanções ligadas aos riscos psicossociais na NR-1. Governo e entidades patronais seguem negociando, e a suspensão vai até o fim de dezembro de 2026."
+    },
+    {
+      "type": "compare",
+      "title": [["A NR-1", "w"], ["continua em vigor", "a"]],
+      "panels": [
+        {"label": "Suspenso por enquanto", "body": "As multas e sanções ligadas a cinco dispositivos questionados no STF."},
+        {"label": "Continua valendo", "body": "A norma segue em vigor e as diretrizes seguem como referência para as empresas. A decisão também não impede sanções baseadas em outras normas de proteção à saúde mental."}
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Seu PGR está em dia?",
+      "body": "Mesmo com a suspensão das multas, a gestão dos riscos continua sendo responsabilidade da empresa. Posso fazer um diagnóstico da sua situação atual.",
+      "button": "Chame no direct",
+      "note": "Fonte: STF e Migalhas (02/10/2026). Conteúdo informativo, não substitui análise técnica do caso concreto."
+    }
+  ]
+}
